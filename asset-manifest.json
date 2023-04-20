@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a96308f9.css",
+    "main.js": "/static/js/main.b7f37812.js",
+    "static/js/787.a3265bee.chunk.js": "/static/js/787.a3265bee.chunk.js",
+    "static/media/fourth.png": "/static/media/fourth.6fb6226cd263ab5dc041.png",
+    "static/media/first.png": "/static/media/first.17fc44909e058e3bad91.png",
+    "static/media/image.png": "/static/media/image.c22cd16aab114a649c8f.png",
+    "static/media/third.png": "/static/media/third.8aacfd779619aa95e2a3.png",
+    "static/media/second.png": "/static/media/second.5c9b0a8859fad069c0e8.png",
+    "static/media/loader.svg": "/static/media/loader.d43b4294bba77b000959846d2d8e8d9d.svg",
+    "static/media/copy.svg": "/static/media/copy.73c88644f69b3149a89a171285943bbe.svg",
+    "index.html": "/index.html",
+    "static/media/vector.svg": "/static/media/vector.3963a551be06bb776864.svg",
+    "static/media/vectorActive.svg": "/static/media/vectorActive.4531f44622c8c1c41f31.svg",
+    "static/media/success.svg": "/static/media/success.b71c5ded46516d9703e73c7d24939569.svg",
+    "static/media/Ellipse.svg": "/static/media/Ellipse.a620e4a89b43f8d599d9.svg",
+    "main.a96308f9.css.map": "/static/css/main.a96308f9.css.map",
+    "main.b7f37812.js.map": "/static/js/main.b7f37812.js.map",
+    "787.a3265bee.chunk.js.map": "/static/js/787.a3265bee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a96308f9.css",
+    "static/js/main.b7f37812.js"
+  ]
+}
